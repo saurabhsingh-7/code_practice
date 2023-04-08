@@ -131,6 +131,7 @@ int main()
 {
 	node* root=NULL;
   buildFromLevelOrder(root);
+  levelOrderTraversal(root);
 	//creating a Tree
 	  // root = buildTree(root);
     // //level order
